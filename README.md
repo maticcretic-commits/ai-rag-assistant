@@ -61,8 +61,8 @@ python tests/test_rag.py
 - [ ] Add conversation memory for multi-turn chat
 - [ ] Evaluate answer quality with a small test-question set
 
-## Support My Work
+## ❤️ Support My Work
 
-If you find this project useful, consider supporting my work with a Bitcoin donation:
-
-`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
+> If you find this project useful, please consider supporting my work with a Bitcoin donation:
+>
+> **₿ `BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`**
