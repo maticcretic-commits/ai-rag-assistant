@@ -1,5 +1,10 @@
 # AI RAG Assistant
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/ai-rag-assistant?style=social)](https://github.com/maticcretic-commits/ai-rag-assistant/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/ai-rag-assistant)](https://github.com/maticcretic-commits/ai-rag-assistant/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/ai-rag-assistant)
+
+
 A portfolio practice project: a **Retrieval-Augmented Generation (RAG) assistant**
 that answers questions over your own documents — with cited sources.
 
